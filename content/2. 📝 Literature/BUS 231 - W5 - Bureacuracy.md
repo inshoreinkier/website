@@ -2,7 +2,8 @@
 id: 20231214151236
 category: literature
 review: 0
-secret-level:
+secret-level: public
+draft: true
 ---
 # [[2. 📝 Literature/BUS 231 - W5 - Bureacuracy]]
 #literature, #edu , #management 
