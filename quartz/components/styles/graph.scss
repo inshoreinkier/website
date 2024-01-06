@@ -7,8 +7,8 @@
   }
 
   & > .graph-outer {
-    border-radius: 5px;
-    border: 1px solid var(--lightgray);
+    border-radius: 12px;
+    border: 2px solid var(--lightgray);
     box-sizing: border-box;
     height: 250px;
     margin: 0.5em 0;
@@ -21,7 +21,7 @@
       width: 18px;
       height: 18px;
       position: absolute;
-      padding: 0.2rem;
+      padding: 0.5rem;
       margin: 0.3rem;
       top: 0;
       right: 0;
